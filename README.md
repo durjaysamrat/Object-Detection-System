@@ -1,6 +1,7 @@
 ### Object Detection System
 ORIGINAL IMAGE:
 ![highway](https://github.com/user-attachments/assets/f1c202ec-a037-4bf7-ad2a-6801607a3f50)
+
 DETECTED IMAGE:
 ![highway_detected](https://github.com/user-attachments/assets/b6b2b2f5-ea3a-4b25-8e33-c6f5817d096b)
 
