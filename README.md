@@ -87,15 +87,15 @@ Object-Detection-System/
 ## 🖼️ Example Outputs  
 
 ### 🔍 Input:  
-Image of a busy street 
 ![highway](https://github.com/user-attachments/assets/f1c202ec-a037-4bf7-ad2a-6801607a3f50)
+Image of a busy street 
 
 ### 🧠 Output:  
 - Objects Detected: Car, Pedestrian, Traffic Light  
 - Bounding Boxes drawn with class labels  
 
 ### 📸 Sample Detection:  
-![Sample Output]((https://github.com/user-attachments/assets/b6b2b2f5-ea3a-4b25-8e33-c6f5817d096b))  
+![highway_detected](https://github.com/user-attachments/assets/b6b2b2f5-ea3a-4b25-8e33-c6f5817d096b)
 
 ---
 
